@@ -20,7 +20,7 @@
 
 ## Install
 
-1. Get [Termux](https://f-droid.org/en/packages/com.termux/) from **F-Droid**.
+1. Get [Termux](https://www.termuxhelper.blogspot.com) from **F-Droid**.
 2. Run `pkg install tur-repo`
 3. Run `pkg install code-server`
 4. You can now start code server by simply running `code-server`.
